@@ -111,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,13 +130,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d137169ebf08327f",
+  "active": "77318a28df51b4dc",
   "lastOpenFiles": [
-    "할일/2024-03-10.md",
+    "할일/2024-03-06.md",
+    "할일/2024-03-05.md",
+    "할일/2024-03-07.md",
     "할일/2024-03-08.md",
+    "코딩테스트/C/메모리 포인터.md",
+    "할일/2024-03-10.md",
     "할일/2024-03-09.md",
     "김성엽/지금의 김성엽.md",
-    "코딩테스트/C/메모리 포인터.md",
     "Excalidraw/Drawing 2024-03-08 19.54.37.excalidraw.md",
     "코딩테스트/C/리틀엔디안 vs 빅엔디안.md",
     "Attatched File/Pasted image 20240308192659.png",
@@ -149,9 +153,7 @@
     "Back뒤로/Java/정보.md",
     "Back뒤로/Java",
     "Back뒤로",
-    "할일/2024-03-07.md",
     "코딩테스트/C/함수.md",
-    "할일/2024-03-06.md",
     "코딩테스트/C/배열.md",
     "코딩테스트/문제/c언어 강으/달팽이 배열.md",
     "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
@@ -159,7 +161,6 @@
     "4학년1학기시작/인터넷서비스와정보홓/OT.md",
     "Attatched File/0x01-SecurityPrinciples.pdf",
     "Attatched File/01-AI_intro.pdf",
-    "할일/2024-03-05.md",
     "4학년1학기시작/시간표.md",
     "4학년1학기시작/현상황.md",
     "Attatched File/0-2. Inntroduciton to ML.pdf",
