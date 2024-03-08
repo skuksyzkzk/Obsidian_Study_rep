@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "할일/2024-03-10.md",
+                "file": "코딩테스트/C/메모리 포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "할일/2024-03-10.md",
+                "file": "코딩테스트/C/메모리 포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "할일/2024-03-10.md",
+                "file": "코딩테스트/C/메모리 포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "할일/2024-03-10.md"
+                "file": "코딩테스트/C/메모리 포인터.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "77318a28df51b4dc",
   "lastOpenFiles": [
-    "할일/2024-03-08.md",
     "할일/2024-03-10.md",
+    "할일/2024-03-08.md",
     "할일/2024-03-09.md",
     "김성엽/지금의 김성엽.md",
     "코딩테스트/C/메모리 포인터.md",
