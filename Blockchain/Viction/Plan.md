@@ -1,0 +1,7 @@
+- [x] 유니스왑 코드 분석 📅 2023-12-24 ✅ 2023-12-25
+- [ ] 유니스왑의 프로토콜과 Viction통합 
+- [ ] Hardhat Doc 공부 
+- [ ] Ehter js or Web3 js 프론트연결 공부 
+- [ ] 강의듣기
+- [ ] Javascript / React 6시간 
+- [ ] Defi App만들기 6시간 30분 짜리 강의 듣기 ⏫ 

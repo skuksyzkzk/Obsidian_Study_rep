@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "6be3f68ad0a4b4c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6825118b58d773d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac29959ae2c68278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코딩테스트/C/메모리 포인터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77318a28df51b4dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코딩테스트/C/메모리 포인터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80309fbafe88afe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df8e99d66c46b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23f4fa19367b6f84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17d51e13d3455364",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3738cd71ff1a7ac9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e4acf5ba014a4ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf5ac99097c8b078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc0c1aa6f191aa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "코딩테스트/C/메모리 포인터.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6850ac80b98ff793",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "코딩테스트/C/메모리 포인터.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d137169ebf08327f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86d8a349e00b50fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "코딩테스트/C/메모리 포인터.md"
+              }
+            }
+          },
+          {
+            "id": "bc901a56acd91d29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "77318a28df51b4dc",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-08 19.54.37.excalidraw.md",
+    "코딩테스트/C/메모리 포인터.md",
+    "코딩테스트/C/리틀엔디안 vs 빅엔디안.md",
+    "Attatched File/Pasted image 20240308192659.png",
+    "Attatched File/Pasted image 20240308192630.png",
+    "4학년1학기시작/기계학습원론/1주차.md",
+    "4학년1학기시작/기계학습원론/2주차.md",
+    "Excalidraw/Drawing 2024-03-04 13.15.53.excalidraw.md",
+    "4학년1학기시작/기술경영개론/ot.md",
+    "Attatched File/기술경영개론 1주차 강의_Lecture Overview.pdf",
+    "할일/2024-03-08.md",
+    "할일/2024-03-09.md",
+    "4학년1학기시작/인터넷서비스와정보홓/1주차 2번쨰 수업.md",
+    "Back뒤로/Java/정보.md",
+    "Back뒤로/Java",
+    "Back뒤로",
+    "할일/2024-03-07.md",
+    "코딩테스트/C/함수.md",
+    "할일/2024-03-06.md",
+    "코딩테스트/C/배열.md",
+    "코딩테스트/문제/c언어 강으/달팽이 배열.md",
+    "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
+    "4학년1학기시작/인공지능개론/OT.md",
+    "4학년1학기시작/인터넷서비스와정보홓/OT.md",
+    "Attatched File/0x01-SecurityPrinciples.pdf",
+    "Attatched File/01-AI_intro.pdf",
+    "할일/2024-03-05.md",
+    "4학년1학기시작/시간표.md",
+    "4학년1학기시작/현상황.md",
+    "Attatched File/0-2. Inntroduciton to ML.pdf",
+    "Attatched File/0-1. Introduction.pdf",
+    "Attatched File/Pasted image 20240305172638.png",
+    "Attatched File/Pasted image 20240305172625.png",
+    "할일/3월달.md",
+    "OPIC/계획.md",
+    "Attatched File/Pasted image 20240305162432.png",
+    "김성엽/지금의 김성엽.md",
+    "OPIC",
+    "김성엽",
+    "Attatched File/0x00-CourseIntro.pdf",
+    "4학년1학기시작/심층신경망개론/OT.md",
+    "Attatched File/Pasted image 20240304170008.png",
+    "Attatched File/Pasted image 20240304145816.png",
+    "Attatched File/Pasted image 20240226180514.png",
+    "Attatched File/Pasted image 20240216160431.png",
+    "Attatched File/Pasted image 20240215020335.png"
+  ]
+}
