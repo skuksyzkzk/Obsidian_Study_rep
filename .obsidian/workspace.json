@@ -93,35 +93,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edc0c1aa6f191aa6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6850ac80b98ff793",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "d137169ebf08327f",
             "type": "leaf",
             "state": {
@@ -133,25 +104,14 @@
             }
           },
           {
-            "id": "86d8a349e00b50fb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "코딩테스트/C/메모리 포인터.md"
-              }
-            }
-          },
-          {
-            "id": "bc901a56acd91d29",
+            "id": "d39e11b6a24e8b25",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +129,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77318a28df51b4dc",
+  "active": "d137169ebf08327f",
   "lastOpenFiles": [
     "할일/2024-03-10.md",
     "할일/2024-03-08.md",
