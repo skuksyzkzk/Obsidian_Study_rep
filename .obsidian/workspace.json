@@ -110,6 +110,45 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3ec19a8aeee4052b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "코딩테스트/C/메모리 포인터.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d00f87098fc47330",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "코딩테스트/C/메모리 포인터.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5368f5e8c01603e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "코딩테스트/C/메모리 포인터.md"
+              }
+            }
           }
         ],
         "currentTab": 1
