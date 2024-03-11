@@ -8,7 +8,7 @@
         "type": "font-awesome"
       },
       "command": true,
-      "title": "Example",
+      "title": null,
       "injectColor": true,
       "noTitle": false,
       "copy": false
@@ -21,9 +21,9 @@
         "type": "font-awesome"
       },
       "command": true,
-      "title": "Definition",
+      "title": null,
       "injectColor": true,
-      "noTitle": false,
+      "noTitle": true,
       "copy": false
     },
     "c": {
@@ -34,7 +34,7 @@
         "type": "font-awesome"
       },
       "command": true,
-      "title": "Core Concept",
+      "title": null,
       "injectColor": true,
       "noTitle": false,
       "copy": false
@@ -47,9 +47,10 @@
         "type": "font-awesome"
       },
       "command": true,
-      "title": "Why",
+      "title": null,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
