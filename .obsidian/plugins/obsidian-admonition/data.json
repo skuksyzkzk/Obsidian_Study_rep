@@ -1,5 +1,57 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "e": {
+      "type": "e",
+      "color": "230, 20, 191",
+      "icon": {
+        "name": "bath",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Example",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "d": {
+      "type": "d",
+      "color": "20, 107, 219",
+      "icon": {
+        "name": "apple-alt",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "c": {
+      "type": "c",
+      "color": "163, 219, 10",
+      "icon": {
+        "name": "atom",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Core Concept",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "w": {
+      "type": "w",
+      "color": "255, 51, 0",
+      "icon": {
+        "name": "question",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Why",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.2.0",

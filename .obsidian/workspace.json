@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
+                "file": "4학년1학기시작/인공지능개론/2주차..md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
+                "file": "4학년1학기시작/인공지능개론/2주차..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
+                "file": "4학년1학기시작/인공지능개론/2주차..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md"
+                "file": "4학년1학기시작/인공지능개론/2주차..md"
               }
             }
           }
@@ -171,14 +171,14 @@
   },
   "active": "77318a28df51b4dc",
   "lastOpenFiles": [
-    "헬스.md",
-    "4학년1학기시작/인공지능개론/2주차..md",
     "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
-    "4학년1학기시작/시간표.md",
+    "4학년1학기시작/인공지능개론/2주차..md",
     "4학년1학기시작/인공지능개론/OT.md",
+    "코딩테스트/C/메모리 포인터.md",
+    "헬스.md",
+    "4학년1학기시작/시간표.md",
     "4학년1학기시작/기계학습원론/2주차.md",
     "Attatched File/1주차(답변).pdf",
-    "코딩테스트/C/메모리 포인터.md",
     "README.md",
     "Attatched File/Pasted image 20240308212505.png",
     "할일/2024-03-06.md",

@@ -1,0 +1,51 @@
+/* https://www.youtube.com/@booktracing */
+/* Updated 2024-02-27 */
+
+.dashboard {
+    font-family: inherit;
+    padding-left: 30px;
+    padding-right: 30px ;
+   }
+.dashboard .markdown-preview-section {
+    max-width: 100%;
+}
+
+.dashboard h1 {
+    border-bottom-style: solid !important;
+    border-width: 2px !important;
+    padding-bottom: 15px !important;
+}
+
+.dashboard h2 {
+    border-bottom-style: solid !important;
+    border-width: 2px !important;
+    padding-bottom: 15px !important;
+}
+
+.dashboard h3 {
+    border-bottom-style: solid !important;
+    border-width: 2px !important;
+    padding-bottom: 15px !important;
+}
+
+.dashboard h4 {
+    border-bottom-style: solid !important;
+    border-width: 2px !important;
+    padding-bottom: 15px !important;
+}
+
+.dashboard h5 {
+    border-bottom-style: solid !important;
+    border-width: 2px !important;
+    padding-bottom: 15px !important;
+}
+
+.dashboard h6 {
+    border-bottom-style: solid !important;
+    border-width: 2px !important;
+    padding-bottom: 15px !important;
+}
+
+
+
+
