@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back뒤로/Java/정보.md",
+                "file": "Back뒤로/Java/자바시작하기/바이트코드 파일 자바 가상머신.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Back뒤로/Java/정보.md",
+                "file": "Back뒤로/Java/자바시작하기/바이트코드 파일 자바 가상머신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Back뒤로/Java/정보.md",
+                "file": "Back뒤로/Java/자바시작하기/바이트코드 파일 자바 가상머신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Back뒤로/Java/정보.md"
+                "file": "Back뒤로/Java/자바시작하기/바이트코드 파일 자바 가상머신.md"
               }
             }
           }
@@ -195,6 +195,9 @@
   },
   "active": "d03175c21dcef303",
   "lastOpenFiles": [
+    "Back뒤로/Java/정보.md",
+    "Back뒤로/Java/자바시작하기/바이트코드 파일 자바 가상머신.md",
+    "Back뒤로/Java/자바시작하기",
     "Attatched File/기술경영개론2주차_2021315626.pdf",
     "할일/2024-03-12.md",
     "할일/2024-03-11.md",
@@ -224,7 +227,6 @@
     "할일/2024-03-05.md",
     "할일/2024-03-07.md",
     "할일/2024-03-08.md",
-    "할일/2024-03-10.md",
     "Attatched File/Pasted image 20240308192659.png",
     "Attatched File/Pasted image 20240308192630.png",
     "Attatched File/기술경영개론 1주차 강의_Lecture Overview.pdf",
@@ -232,8 +234,6 @@
     "Back뒤로",
     "Attatched File/0x01-SecurityPrinciples.pdf",
     "Attatched File/01-AI_intro.pdf",
-    "Attatched File/0-2. Inntroduciton to ML.pdf",
-    "Attatched File/0-1. Introduction.pdf",
     "Attatched File/Pasted image 20240305172638.png",
     "Attatched File/Pasted image 20240305172625.png",
     "Attatched File/Pasted image 20240305162432.png",
