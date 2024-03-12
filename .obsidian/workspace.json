@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/심층신경망개론/2주차.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/심층신경망개론/2주차.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/심층신경망개론/2주차.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/심층신경망개론/2주차.md"
+                "file": "4학년1학기시작/인터넷서비스와정보홓/2주차.md"
               }
             }
           }
@@ -207,8 +207,11 @@
   },
   "active": "b5d4ab6a951ebce7",
   "lastOpenFiles": [
-    "4학년1학기시작/시간표.md",
+    "4학년1학기시작/인터넷서비스와정보홓/1주차 2번쨰 수업.md",
+    "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
+    "Attatched File/0x01-SecurityPrinciples(Extended).pdf",
     "4학년1학기시작/심층신경망개론/2주차.md",
+    "4학년1학기시작/시간표.md",
     "Excalidraw/Drawing 2024-03-12 13.44.44.excalidraw.md",
     "Attatched File/lecture2 Machine learning basic.pdf",
     "4학년1학기시작/심층신경망개론/OT.md",
@@ -220,7 +223,6 @@
     "Attatched File/기술경영개론2주차_2021315626.pdf",
     "할일/2024-03-12.md",
     "할일/2024-03-11.md",
-    "4학년1학기시작/인터넷서비스와정보홓/1주차 2번쨰 수업.md",
     "4학년1학기시작/현상황.md",
     "4학년1학기시작/기술경영개론/2주차 과제.md",
     "4학년1학기시작/인공지능개론/2주차..md",
@@ -239,13 +241,10 @@
     "4학년1학기시작/기계학습원론/2주차.md",
     "Attatched File/1주차(답변).pdf",
     "Attatched File/Pasted image 20240308212505.png",
-    "할일/2024-03-06.md",
-    "할일/2024-03-05.md",
     "Attatched File/Pasted image 20240308192659.png",
     "Attatched File/Pasted image 20240308192630.png",
     "Attatched File/기술경영개론 1주차 강의_Lecture Overview.pdf",
     "Back뒤로/Java",
-    "Back뒤로",
     "Attatched File/Pasted image 20240305172638.png",
     "Attatched File/Pasted image 20240305172625.png",
     "Attatched File/Pasted image 20240305162432.png",
