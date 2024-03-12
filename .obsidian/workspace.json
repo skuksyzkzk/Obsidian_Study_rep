@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
+                "file": "0. 졸업작품/초기 주제.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
+                "file": "0. 졸업작품/초기 주제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
+                "file": "0. 졸업작품/초기 주제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md"
+                "file": "0. 졸업작품/초기 주제.md"
               }
             }
           }
@@ -207,6 +207,9 @@
   },
   "active": "b5d4ab6a951ebce7",
   "lastOpenFiles": [
+    "코딩테스트/C/메모리 포인터.md",
+    "0. 졸업작품/초기 주제.md",
+    "0. 졸업작품",
     "Attatched File/Pasted image 20240312185735.png",
     "할일/2024-03-16.md",
     "할일/2024-03-15.md",
@@ -222,7 +225,6 @@
     "Excalidraw/Drawing 2024-03-12 13.44.44.excalidraw.md",
     "Attatched File/lecture2 Machine learning basic.pdf",
     "4학년1학기시작/심층신경망개론/OT.md",
-    "코딩테스트/C/메모리 포인터.md",
     "Back뒤로/Java/2.변수와 타입",
     "Back뒤로/Java/정보.md",
     "Back뒤로/Java/1.자바시작하기/바이트코드 파일 자바 가상머신.md",
@@ -245,13 +247,11 @@
     "Attatched File/Pasted image 20240308192659.png",
     "Attatched File/Pasted image 20240308192630.png",
     "Attatched File/기술경영개론 1주차 강의_Lecture Overview.pdf",
-    "Back뒤로/Java",
     "Attatched File/Pasted image 20240305172638.png",
     "Attatched File/Pasted image 20240305172625.png",
     "Attatched File/Pasted image 20240305162432.png",
     "Attatched File/Pasted image 20240304170008.png",
     "Attatched File/Pasted image 20240304145816.png",
-    "Attatched File/Pasted image 20240226180514.png",
-    "Attatched File/Pasted image 20240216160431.png"
+    "Attatched File/Pasted image 20240226180514.png"
   ]
 }
