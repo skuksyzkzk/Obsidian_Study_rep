@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "채용공고/삼성전자 DX.md",
+                "file": "OPIC/왕초보/02.단어가 뭐였더라.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "채용공고/삼성전자 DX.md",
+                "file": "OPIC/왕초보/02.단어가 뭐였더라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "채용공고/삼성전자 DX.md",
+                "file": "OPIC/왕초보/02.단어가 뭐였더라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "채용공고/삼성전자 DX.md"
+                "file": "OPIC/왕초보/02.단어가 뭐였더라.md"
               }
             }
           }
@@ -219,8 +219,14 @@
   },
   "active": "0ac01467561ab574",
   "lastOpenFiles": [
-    "옵시디언/옵시디언 마크다운.md",
+    "OPIC/왕초보/01.you know.md",
+    "OPIC/왕초보/02.단어가 뭐였더라.md",
+    "OPIC/IM시리즈.md",
+    "OPIC/IM",
+    "OPIC/왕초보",
+    "OPIC/계획.md",
     "채용공고/삼성전자 DX.md",
+    "옵시디언/옵시디언 마크다운.md",
     "할일/2024-03-13.md",
     "할일/2024-03-14.md",
     "코딩테스트/PS/SW expert academy.md",
@@ -246,16 +252,10 @@
     "4학년1학기시작/시간표.md",
     "Attatched File/0x01-SecurityPrinciples(Extended).pdf",
     "4학년1학기시작/심층신경망개론/2주차.md",
-    "Excalidraw/Drawing 2024-03-12 13.44.44.excalidraw.md",
     "Attatched File/lecture2 Machine learning basic.pdf",
-    "4학년1학기시작/심층신경망개론/OT.md",
     "Back뒤로/Java/2.변수와 타입",
-    "Back뒤로/Java/정보.md",
-    "Back뒤로/Java/1.자바시작하기/바이트코드 파일 자바 가상머신.md",
     "Back뒤로/Java/1.자바시작하기",
     "Attatched File/기술경영개론2주차_2021315626.pdf",
-    "Trading",
-    "Archive",
     "Attatched File/Pasted image 20240308212505.png",
     "Attatched File/Pasted image 20240308192659.png",
     "Attatched File/Pasted image 20240308192630.png",
