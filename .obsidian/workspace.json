@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPIC/왕초보/02.단어가 뭐였더라.md",
+                "file": "OPIC/쓸만한 영어구.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OPIC/왕초보/02.단어가 뭐였더라.md",
+                "file": "OPIC/쓸만한 영어구.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OPIC/왕초보/02.단어가 뭐였더라.md",
+                "file": "OPIC/쓸만한 영어구.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OPIC/왕초보/02.단어가 뭐였더라.md"
+                "file": "OPIC/쓸만한 영어구.md"
               }
             }
           }
@@ -219,12 +219,16 @@
   },
   "active": "0ac01467561ab574",
   "lastOpenFiles": [
-    "OPIC/왕초보/01.you know.md",
+    "OPIC/계획.md",
+    "OPIC/IM/Habit.md",
+    "OPIC/IM/비교질문.md",
+    "OPIC/IM/쉬운단어쓰자.md",
+    "OPIC/쓸만한 영어구.md",
     "OPIC/왕초보/02.단어가 뭐였더라.md",
+    "OPIC/왕초보/01.you know.md",
     "OPIC/IM시리즈.md",
     "OPIC/IM",
     "OPIC/왕초보",
-    "OPIC/계획.md",
     "채용공고/삼성전자 DX.md",
     "옵시디언/옵시디언 마크다운.md",
     "할일/2024-03-13.md",
@@ -247,11 +251,7 @@
     "Attatched File/Pasted image 20240312185735.png",
     "할일/2024-03-15.md",
     "할일/2024-03-09.md",
-    "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
-    "4학년1학기시작/인터넷서비스와정보홓/1주차 2번쨰 수업.md",
-    "4학년1학기시작/시간표.md",
     "Attatched File/0x01-SecurityPrinciples(Extended).pdf",
-    "4학년1학기시작/심층신경망개론/2주차.md",
     "Attatched File/lecture2 Machine learning basic.pdf",
     "Back뒤로/Java/2.변수와 타입",
     "Back뒤로/Java/1.자바시작하기",
