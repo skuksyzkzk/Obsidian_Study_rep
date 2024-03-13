@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/2주차.md",
+                "file": "4학년1학기시작/인공지능개론/2주차..md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/2주차.md",
+                "file": "4학년1학기시작/인공지능개론/2주차..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/2주차.md",
+                "file": "4학년1학기시작/인공지능개론/2주차..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/2주차.md"
+                "file": "4학년1학기시작/인공지능개론/2주차..md"
               }
             }
           }
@@ -219,10 +219,13 @@
   },
   "active": "0ac01467561ab574",
   "lastOpenFiles": [
-    "할일/2024-03-14.md",
+    "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
+    "4학년1학기시작/인공지능개론/2주차..md",
     "할일/2024-03-13.md",
-    "할일/2024-03-16.md",
+    "할일/2024-03-12.md",
     "4학년1학기시작/기계학습원론/2주차.md",
+    "할일/2024-03-14.md",
+    "할일/2024-03-16.md",
     "Attatched File/2-1. Basic Idea of Regression.pdf",
     "0. 졸업작품/001초기주제/학교 시설.md",
     "0. 졸업작품/001초기주제/CMS.md",
@@ -235,7 +238,6 @@
     "Attatched File/Pasted image 20240312185735.png",
     "할일/2024-03-15.md",
     "할일/2024-03-09.md",
-    "할일/2024-03-12.md",
     "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
     "4학년1학기시작/인터넷서비스와정보홓/1주차 2번쨰 수업.md",
     "4학년1학기시작/시간표.md",
@@ -252,8 +254,6 @@
     "할일/2024-03-11.md",
     "4학년1학기시작/현상황.md",
     "4학년1학기시작/기술경영개론/2주차 과제.md",
-    "4학년1학기시작/인공지능개론/2주차..md",
-    "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
     "Trading",
     "Archive",
     "Attatched File/Pasted image 20240308212505.png",
