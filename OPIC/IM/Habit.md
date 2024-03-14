@@ -27,4 +27,19 @@ l always stretching first
 
 중요하다 이건 
 this is crucial
-  
+
+# transportation
+행동 습관 얘기할때 
+
+no matter what whenever i need to go somewhere 
+l alwats take the subway or bus 
+
+어떤 교통 타는지 하나 고르고 
+감정 중요하다 이런거 말하고 
+
+빠른비교 중요역시
+과거로 갔다가 빠르게 
+
+i 've never liked reading before 
+but i love ~ 
+# recycling
