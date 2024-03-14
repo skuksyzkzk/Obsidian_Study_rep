@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPIC/IM/과거경험.md",
-                "mode": "source",
+                "file": "0. 졸업작품/001초기주제/CMS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OPIC/IM/과거경험.md",
+                "file": "0. 졸업작품/001초기주제/CMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OPIC/IM/과거경험.md",
+                "file": "0. 졸업작품/001초기주제/CMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OPIC/IM/과거경험.md"
+                "file": "0. 졸업작품/001초기주제/CMS.md"
               }
             }
           }
@@ -219,8 +219,12 @@
   },
   "active": "0ac01467561ab574",
   "lastOpenFiles": [
-    "OPIC/쓸만한 영어구.md",
+    "0. 졸업작품/001초기주제/투표 사이트.md",
+    "0. 졸업작품/001초기주제/학교 시설.md",
+    "0. 졸업작품/001초기주제/CMS.md",
+    "0. 졸업작품/001초기주제/초기 주제.md",
     "OPIC/IM/과거경험.md",
+    "OPIC/쓸만한 영어구.md",
     "OPIC/계획.md",
     "OPIC/IM/Habit.md",
     "OPIC/IM/디스크립션.md",
@@ -242,11 +246,7 @@
     "4학년1학기시작/기계학습원론/2주차.md",
     "할일/2024-03-16.md",
     "Attatched File/2-1. Basic Idea of Regression.pdf",
-    "0. 졸업작품/001초기주제/학교 시설.md",
-    "0. 졸업작품/001초기주제/CMS.md",
-    "0. 졸업작품/001초기주제/투표 사이트.md",
     "Excalidraw/Drawing 2024-03-13 01.02.39.CMS.md",
-    "0. 졸업작품/001초기주제/초기 주제.md",
     "0. 졸업작품/001초기주제",
     "코딩테스트/C/메모리 포인터.md",
     "0. 졸업작품",
