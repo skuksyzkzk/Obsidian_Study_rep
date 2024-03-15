@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPIC/IM/비교질문.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md"
+                "file": "4학년1학기시작/인터넷서비스와정보홓/2주차.md"
               }
             }
           }
@@ -217,27 +217,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23f4fa19367b6f84",
+  "active": "0ac01467561ab574",
   "lastOpenFiles": [
-    "OPIC/IM/쉬운단어쓰자.md",
-    "OPIC/IM/롤플레이.md",
-    "OPIC/IM/디스크립션.md",
-    "OPIC/IM/비교질문.md",
-    "OPIC/IM/과거경험.md",
-    "OPIC/쓸만한 영어구.md",
-    "OPIC/계획.md",
-    "OPIC/IM/Habit.md",
-    "0. 졸업작품/001초기주제/CMS.md",
+    "4학년1학기시작/인터넷서비스와정보홓/OT.md",
     "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
+    "4학년1학기시작/인터넷서비스와정보홓/1주차 2번쨰 수업.md",
+    "코딩테스트/C/메모리 포인터.md",
+    "Archive/OPIC/IM/쉬운단어쓰자.md",
+    "Archive/OPIC/IM/롤플레이.md",
+    "Archive/OPIC/IM/디스크립션.md",
+    "Archive/OPIC/IM/비교질문.md",
+    "Archive/OPIC/IM/과거경험.md",
+    "Archive/OPIC/쓸만한 영어구.md",
+    "Archive/OPIC/계획.md",
+    "Archive/OPIC/IM/Habit.md",
+    "0. 졸업작품/001초기주제/CMS.md",
     "0. 졸업작품/001초기주제/초기 주제.md",
     "0. 졸업작품/001초기주제/학교 시설.md",
     "Attatched File/0x02-AccessControl.pdf",
     "0. 졸업작품/001초기주제/투표 사이트.md",
-    "OPIC/왕초보/02.단어가 뭐였더라.md",
-    "OPIC/왕초보/01.you know.md",
+    "Archive/OPIC/왕초보/02.단어가 뭐였더라.md",
+    "Archive/OPIC/왕초보/01.you know.md",
     "OPIC/IM시리즈.md",
-    "OPIC/IM",
-    "OPIC/왕초보",
+    "Archive/OPIC/IM",
+    "Archive/OPIC/왕초보",
     "채용공고/삼성전자 DX.md",
     "옵시디언/옵시디언 마크다운.md",
     "할일/2024-03-13.md",
@@ -245,9 +248,6 @@
     "코딩테스트/PS/SW expert academy.md",
     "4학년1학기시작/인공지능개론/2주차..md",
     "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
-    "할일/2024-03-12.md",
-    "4학년1학기시작/기계학습원론/2주차.md",
-    "할일/2024-03-16.md",
     "Attatched File/2-1. Basic Idea of Regression.pdf",
     "0. 졸업작품/001초기주제",
     "0. 졸업작품",
