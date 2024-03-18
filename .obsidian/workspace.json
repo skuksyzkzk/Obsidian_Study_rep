@@ -85,14 +85,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/C/함수.md",
+                "file": "코딩테스트/C/문자열 입출력.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "06df9c85227727a9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-18 14.22.23.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -177,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/C/함수.md",
+                "file": "Excalidraw/Drawing 2024-03-18 14.22.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/C/함수.md",
+                "file": "Excalidraw/Drawing 2024-03-18 14.22.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/C/함수.md"
+                "file": "Excalidraw/Drawing 2024-03-18 14.22.23.excalidraw.md"
               }
             }
           }
@@ -229,8 +239,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61ff182a7f4399bc",
+  "active": "06df9c85227727a9",
   "lastOpenFiles": [
+    "코딩테스트/C/문자열 입출력.md",
+    "Excalidraw/Drawing 2024-03-18 14.22.23.excalidraw.md",
+    "코딩테스트/C/함수.md",
     "4학년1학기시작/과제.md",
     "4학년1학기시작/기계학습원론/2주차.md",
     "4학년1학기시작/인공지능개론/3주차.md",
@@ -240,9 +253,7 @@
     "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
     "할일/2024-03-18.md",
     "Attatched File/2주차(답변).pdf",
-    "코딩테스트/C/함수.md",
     "코딩테스트/C/컴파일 링크 실행.md",
-    "코딩테스트/C/문자열 입출력.md",
     "코딩테스트/C/예제 분석.md",
     "코딩테스트/C/메모리 포인터.md",
     "Attatched File/Pasted image 20240315200648.png",
@@ -263,7 +274,6 @@
     "Archive/OPIC/IM/롤플레이.md",
     "Archive/OPIC/IM/디스크립션.md",
     "Archive/OPIC/IM/비교질문.md",
-    "Archive/OPIC/IM/과거경험.md",
     "Attatched File/0x02-AccessControl.pdf",
     "Archive/OPIC/IM",
     "Archive/OPIC/왕초보",
