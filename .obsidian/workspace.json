@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/3주차.md",
+                "file": "0. 졸업작품/001초기주제/학교 시설.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/3주차.md",
+                "file": "0. 졸업작품/001초기주제/학교 시설.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/3주차.md",
+                "file": "0. 졸업작품/001초기주제/학교 시설.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/3주차.md"
+                "file": "0. 졸업작품/001초기주제/학교 시설.md"
               }
             }
           }
@@ -265,8 +265,10 @@
   },
   "active": "56aea597001e406f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-18 16.28.22.excalidraw.md",
+    "0. 졸업작품/001초기주제/투표 사이트.md",
+    "0. 졸업작품/001초기주제/학교 시설.md",
     "4학년1학기시작/기계학습원론/3주차.md",
+    "Excalidraw/Drawing 2024-03-18 16.28.22.excalidraw.md",
     "Attatched File/2-2. Additive Linear Model.pdf",
     "4학년1학기시작/기계학습원론/2주차.md",
     "4학년1학기시작/기계학습원론/1주차.md",
@@ -297,9 +299,7 @@
     "4학년1학기시작/기술경영개론/2주차 수업.md",
     "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
     "4학년1학기시작/기술경영개론/ot.md",
-    "4학년1학기시작/기술경영개론/2주차 과제.md",
     "Attatched File/[기술경영개론 2주차 과제논문] 2020 공학계열 대학생들의 기술의 본성(NOT)에 대한 인식 조사_한국기술교육학회지.pdf",
-    "4학년1학기시작/인터넷서비스와정보홓/1주차 2번쨰 수업.md",
     "Attatched File/기술경영개론 2주차 강의_Ch1 Introduction.pdf",
     "Attatched File/0x02-AccessControl.pdf",
     "Archive/OPIC/IM",
