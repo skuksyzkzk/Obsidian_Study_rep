@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/C/함수.md",
+                "file": "4학년1학기시작/인공지능개론/3주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61ff182a7f4399bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년1학기시작/인공지능개론/3주차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/C/함수.md",
+                "file": "4학년1학기시작/인공지능개론/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/C/함수.md",
+                "file": "4학년1학기시작/인공지능개론/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/C/함수.md"
+                "file": "4학년1학기시작/인공지능개론/3주차.md"
               }
             }
           }
@@ -217,11 +229,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ac01467561ab574",
+  "active": "61ff182a7f4399bc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-18 11.10.02.3weeksAi.md",
+    "4학년1학기시작/인공지능개론/3주차.md",
+    "4학년1학기시작/인공지능개론/OT.md",
+    "4학년1학기시작/인공지능개론/2주차..md",
+    "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
+    "할일/2024-03-18.md",
+    "Attatched File/2주차(답변).pdf",
+    "코딩테스트/C/함수.md",
     "코딩테스트/C/컴파일 링크 실행.md",
     "코딩테스트/C/문자열 입출력.md",
-    "코딩테스트/C/함수.md",
     "코딩테스트/C/예제 분석.md",
     "코딩테스트/C/메모리 포인터.md",
     "Attatched File/Pasted image 20240315200648.png",
@@ -245,20 +264,13 @@
     "Archive/OPIC/IM/과거경험.md",
     "Archive/OPIC/쓸만한 영어구.md",
     "Archive/OPIC/계획.md",
-    "Archive/OPIC/IM/Habit.md",
-    "0. 졸업작품/001초기주제/CMS.md",
-    "0. 졸업작품/001초기주제/초기 주제.md",
-    "0. 졸업작품/001초기주제/학교 시설.md",
     "Attatched File/0x02-AccessControl.pdf",
-    "0. 졸업작품/001초기주제/투표 사이트.md",
-    "Archive/OPIC/왕초보/02.단어가 뭐였더라.md",
     "Archive/OPIC/IM",
     "Archive/OPIC/왕초보",
     "Attatched File/2-1. Basic Idea of Regression.pdf",
     "0. 졸업작품/001초기주제",
     "0. 졸업작품",
     "Attatched File/Pasted image 20240312185735.png",
-    "Attatched File/0x01-SecurityPrinciples(Extended).pdf",
     "Attatched File/Pasted image 20240308212505.png",
     "Attatched File/Pasted image 20240308192659.png",
     "Attatched File/Pasted image 20240308192630.png",
