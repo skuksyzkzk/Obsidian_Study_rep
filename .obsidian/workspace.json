@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/인공지능개론/3주차.md",
+                "file": "코딩테스트/C/함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/인공지능개론/3주차.md",
+                "file": "코딩테스트/C/함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/인공지능개론/3주차.md",
+                "file": "코딩테스트/C/함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/인공지능개론/3주차.md"
+                "file": "코딩테스트/C/함수.md"
               }
             }
           }
@@ -231,8 +231,10 @@
   },
   "active": "61ff182a7f4399bc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-18 11.10.02.3weeksAi.md",
+    "4학년1학기시작/과제.md",
+    "4학년1학기시작/기계학습원론/2주차.md",
     "4학년1학기시작/인공지능개론/3주차.md",
+    "Excalidraw/Drawing 2024-03-18 11.10.02.3weeksAi.md",
     "4학년1학기시작/인공지능개론/OT.md",
     "4학년1학기시작/인공지능개론/2주차..md",
     "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
@@ -262,8 +264,6 @@
     "Archive/OPIC/IM/디스크립션.md",
     "Archive/OPIC/IM/비교질문.md",
     "Archive/OPIC/IM/과거경험.md",
-    "Archive/OPIC/쓸만한 영어구.md",
-    "Archive/OPIC/계획.md",
     "Attatched File/0x02-AccessControl.pdf",
     "Archive/OPIC/IM",
     "Archive/OPIC/왕초보",
