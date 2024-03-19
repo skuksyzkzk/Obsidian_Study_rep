@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/기술경영개론/2주차 수업.md",
+                "file": "4학년1학기시작/기계학습원론/1주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/기술경영개론/2주차 수업.md",
+                "file": "4학년1학기시작/기계학습원론/1주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/기술경영개론/2주차 수업.md",
+                "file": "4학년1학기시작/기계학습원론/1주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/기술경영개론/2주차 수업.md"
+                "file": "4학년1학기시작/기계학습원론/1주차.md"
               }
             }
           }
@@ -265,19 +265,24 @@
   },
   "active": "56aea597001e406f",
   "lastOpenFiles": [
-    "4학년1학기시작/기술경영개론/3주차.md",
-    "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
+    "0. 졸업작품/001초기주제/학교 시설.md",
+    "4학년1학기시작/기계학습원론/3주차.md",
+    "할일/2024-03-19.md",
+    "할일/2024-03-20.md",
     "4학년1학기시작/과제.md",
+    "4학년1학기시작/시간표.md",
+    "코딩테스트/C/파일 입출력.md",
+    "코딩테스트/C/구조체.md",
+    "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
+    "4학년1학기시작/기술경영개론/2주차 수업.md",
+    "4학년1학기시작/기술경영개론/3주차.md",
     "Attatched File/Tutorial Exploit Writing - 1. Automation.pdf",
     "Attatched File/0x03-AccessControl.pdf",
-    "0. 졸업작품/001초기주제/학교 시설.md",
     "0. 졸업작품/001초기주제/투표 사이트.md",
-    "4학년1학기시작/기계학습원론/3주차.md",
     "Excalidraw/Drawing 2024-03-18 16.28.22.excalidraw.md",
     "Attatched File/2-2. Additive Linear Model.pdf",
     "4학년1학기시작/기계학습원론/2주차.md",
     "4학년1학기시작/기계학습원론/1주차.md",
-    "코딩테스트/C/구조체.md",
     "Excalidraw/Drawing 2024-03-18 15.57.47.excalidraw.md",
     "Attatched File/Pasted image 20240318155709.png",
     "Attatched File/Pasted image 20240318155020.png",
@@ -292,15 +297,10 @@
     "할일/2024-03-18.md",
     "Attatched File/2주차(답변).pdf",
     "코딩테스트/C/컴파일 링크 실행.md",
-    "코딩테스트/C/예제 분석.md",
-    "코딩테스트/C/메모리 포인터.md",
     "Attatched File/Pasted image 20240315200648.png",
     "CS",
     "Attatched File/Pasted image 20240315195710.png",
     "Attatched File/Pasted image 20240315192910.png",
-    "할일/2024-03-15.md",
-    "할일/2024-03-16.md",
-    "4학년1학기시작/기술경영개론/2주차 수업.md",
     "Attatched File/[기술경영개론 2주차 과제논문] 2020 공학계열 대학생들의 기술의 본성(NOT)에 대한 인식 조사_한국기술교육학회지.pdf",
     "Attatched File/기술경영개론 2주차 강의_Ch1 Introduction.pdf",
     "Attatched File/0x02-AccessControl.pdf",
