@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "할일/2024-03-20.md",
+                "file": "0. 졸업작품/001초기주제/학교 시설.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "할일/2024-03-20.md",
+                "file": "0. 졸업작품/001초기주제/학교 시설.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "할일/2024-03-20.md",
+                "file": "0. 졸업작품/001초기주제/학교 시설.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "할일/2024-03-20.md"
+                "file": "0. 졸업작품/001초기주제/학교 시설.md"
               }
             }
           }
@@ -265,6 +265,8 @@
   },
   "active": "56aea597001e406f",
   "lastOpenFiles": [
+    "0. 졸업작품/001초기주제/초기 주제.md",
+    "할일/2024-03-20.md",
     "4학년1학기시작/과제.md",
     "4학년1학기시작/기계학습원론/1주차.md",
     "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
@@ -272,7 +274,6 @@
     "4학년1학기시작/기계학습원론/3주차.md",
     "0. 졸업작품/001초기주제/학교 시설.md",
     "할일/2024-03-19.md",
-    "할일/2024-03-20.md",
     "4학년1학기시작/시간표.md",
     "코딩테스트/C/파일 입출력.md",
     "코딩테스트/C/구조체.md",
@@ -296,7 +297,6 @@
     "4학년1학기시작/인공지능개론/2주차..md",
     "할일/2024-03-18.md",
     "Attatched File/2주차(답변).pdf",
-    "코딩테스트/C/컴파일 링크 실행.md",
     "Attatched File/Pasted image 20240315200648.png",
     "CS",
     "Attatched File/Pasted image 20240315195710.png",
