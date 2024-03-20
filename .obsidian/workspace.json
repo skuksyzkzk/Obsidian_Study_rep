@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/1주차.md",
+                "file": "4학년1학기시작/과제.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/1주차.md",
+                "file": "4학년1학기시작/과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/1주차.md",
+                "file": "4학년1학기시작/과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/기계학습원론/1주차.md"
+                "file": "4학년1학기시작/과제.md"
               }
             }
           }
@@ -265,9 +265,10 @@
   },
   "active": "56aea597001e406f",
   "lastOpenFiles": [
+    "4학년1학기시작/기계학습원론/1주차.md",
+    "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
     "4학년1학기시작/기계학습원론/2주차.md",
     "4학년1학기시작/기계학습원론/3주차.md",
-    "4학년1학기시작/기계학습원론/1주차.md",
     "0. 졸업작품/001초기주제/학교 시설.md",
     "할일/2024-03-19.md",
     "할일/2024-03-20.md",
@@ -293,7 +294,6 @@
     "Excalidraw/Drawing 2024-03-18 11.10.02.3weeksAi.md",
     "4학년1학기시작/인공지능개론/OT.md",
     "4학년1학기시작/인공지능개론/2주차..md",
-    "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
     "할일/2024-03-18.md",
     "Attatched File/2주차(답변).pdf",
     "코딩테스트/C/컴파일 링크 실행.md",
