@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "f93cc50e4147fae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "06df9c85227727a9",
             "type": "leaf",
             "state": {
@@ -126,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 졸업작품/001초기주제/학교 시설.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 졸업작품/001초기주제/학교 시설.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 졸업작품/001초기주제/학교 시설.md"
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md"
               }
             }
           }
@@ -263,8 +275,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56aea597001e406f",
+  "active": "f93cc50e4147fae5",
   "lastOpenFiles": [
+    "Attatched File/0x03-AccessControl-Extended.pdf",
     "0. 졸업작품/001초기주제/초기 주제.md",
     "할일/2024-03-20.md",
     "4학년1학기시작/과제.md",
@@ -295,7 +308,6 @@
     "Excalidraw/Drawing 2024-03-18 11.10.02.3weeksAi.md",
     "4학년1학기시작/인공지능개론/OT.md",
     "4학년1학기시작/인공지능개론/2주차..md",
-    "할일/2024-03-18.md",
     "Attatched File/2주차(답변).pdf",
     "Attatched File/Pasted image 20240315200648.png",
     "CS",
