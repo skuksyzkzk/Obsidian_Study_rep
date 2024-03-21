@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
+                "file": "코딩테스트/C/파일 시스템.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6e4acf5ba014a4ad",
@@ -223,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
+                "file": "코딩테스트/C/파일 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
+                "file": "코딩테스트/C/파일 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,16 +253,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md"
+                "file": "코딩테스트/C/파일 시스템.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,10 +279,14 @@
   },
   "active": "f93cc50e4147fae5",
   "lastOpenFiles": [
-    "Attatched File/0x03-AccessControl-Extended.pdf",
-    "0. 졸업작품/001초기주제/초기 주제.md",
+    "할일/2024-03-21.md",
+    "코딩테스트/C/파일 시스템.md",
+    "할일/2024-03-22.md",
     "할일/2024-03-20.md",
     "4학년1학기시작/과제.md",
+    "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
+    "Attatched File/0x03-AccessControl-Extended.pdf",
+    "0. 졸업작품/001초기주제/초기 주제.md",
     "4학년1학기시작/기계학습원론/1주차.md",
     "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
     "4학년1학기시작/기계학습원론/2주차.md",
@@ -290,7 +296,6 @@
     "4학년1학기시작/시간표.md",
     "코딩테스트/C/파일 입출력.md",
     "코딩테스트/C/구조체.md",
-    "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
     "4학년1학기시작/기술경영개론/2주차 수업.md",
     "4학년1학기시작/기술경영개론/3주차.md",
     "Attatched File/Tutorial Exploit Writing - 1. Automation.pdf",
@@ -306,8 +311,6 @@
     "코딩테스트/C/함수.md",
     "4학년1학기시작/인공지능개론/3주차.md",
     "Excalidraw/Drawing 2024-03-18 11.10.02.3weeksAi.md",
-    "4학년1학기시작/인공지능개론/OT.md",
-    "4학년1학기시작/인공지능개론/2주차..md",
     "Attatched File/2주차(답변).pdf",
     "Attatched File/Pasted image 20240315200648.png",
     "CS",
@@ -317,7 +320,6 @@
     "Attatched File/기술경영개론 2주차 강의_Ch1 Introduction.pdf",
     "Attatched File/0x02-AccessControl.pdf",
     "Archive/OPIC/IM",
-    "Archive/OPIC/왕초보",
     "Attatched File/Pasted image 20240312185735.png",
     "Attatched File/Pasted image 20240308212505.png",
     "Attatched File/Pasted image 20240308192659.png",
