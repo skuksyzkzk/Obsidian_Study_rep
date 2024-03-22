@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/C/파일 시스템.md",
+                "file": "코딩테스트/C/전처리기.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/C/파일 시스템.md",
+                "file": "코딩테스트/C/전처리기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/C/파일 시스템.md",
+                "file": "코딩테스트/C/전처리기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/C/파일 시스템.md"
+                "file": "코딩테스트/C/전처리기.md"
               }
             }
           }
@@ -289,10 +289,13 @@
   },
   "active": "39fc91cc890b338c",
   "lastOpenFiles": [
+    "코딩테스트/C/변수와 상수 고급이론.md",
+    "코딩테스트/C/전처리기.md",
+    "Attatched File/Pasted image 20240322204945.png",
+    "코딩테스트/C/파일 시스템.md",
     "Attatched File/Pasted image 20240322194315.png",
     "Attatched File/Pasted image 20240322192937.png",
     "코딩테스트/C/Buffered I O.md",
-    "코딩테스트/C/파일 시스템.md",
     "코딩테스트/C/파일 입출력.md",
     "코딩테스트/자료구조/기본적인이해/012알고리즘이란.md",
     "Excalidraw/Drawing 2024-03-22 18.42.23.excalidraw.md",
@@ -323,7 +326,6 @@
     "0. 졸업작품/001초기주제/투표 사이트.md",
     "Excalidraw/Drawing 2024-03-18 16.28.22.excalidraw.md",
     "Attatched File/2-2. Additive Linear Model.pdf",
-    "Excalidraw/Drawing 2024-03-18 15.57.47.excalidraw.md",
     "Attatched File/Pasted image 20240318155709.png",
     "Attatched File/Pasted image 20240318155020.png",
     "Attatched File/2주차(답변).pdf",
@@ -332,8 +334,6 @@
     "Attatched File/Pasted image 20240315195710.png",
     "Attatched File/Pasted image 20240315192910.png",
     "Attatched File/[기술경영개론 2주차 과제논문] 2020 공학계열 대학생들의 기술의 본성(NOT)에 대한 인식 조사_한국기술교육학회지.pdf",
-    "Attatched File/기술경영개론 2주차 강의_Ch1 Introduction.pdf",
-    "Attatched File/Pasted image 20240312185735.png",
-    "Attatched File/Pasted image 20240308212505.png"
+    "Attatched File/기술경영개론 2주차 강의_Ch1 Introduction.pdf"
   ]
 }
