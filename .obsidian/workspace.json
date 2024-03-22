@@ -121,7 +121,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/기술경영개론/3주차.md",
+                "file": "코딩테스트/자료구조/기본적인이해/012알고리즘이란.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39fc91cc890b338c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코딩테스트/C/파일 시스템.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -223,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/기술경영개론/3주차.md",
+                "file": "코딩테스트/C/파일 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/기술경영개론/3주차.md",
+                "file": "코딩테스트/C/파일 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/기술경영개론/3주차.md"
+                "file": "코딩테스트/C/파일 시스템.md"
               }
             }
           }
@@ -275,8 +287,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f93cc50e4147fae5",
+  "active": "39fc91cc890b338c",
   "lastOpenFiles": [
+    "코딩테스트/C/파일 입출력.md",
+    "코딩테스트/자료구조/기본적인이해/012알고리즘이란.md",
+    "Excalidraw/Drawing 2024-03-22 18.42.23.excalidraw.md",
+    "코딩테스트/자료구조/기본적인이해/011자료구조란.md",
+    "4학년1학기시작/기계학습원론/3주차.md",
+    "코딩테스트/자료구조/기본적인이해",
+    "4학년1학기시작/기술경영개론/3주차.md",
     "Attatched File/기술경영개론 3주차 강의_Ch2 혁신의 원천.pdf",
     "코딩테스트/C/파일 시스템.md",
     "Attatched File/Pasted image 20240321204819.png",
@@ -291,14 +310,11 @@
     "4학년1학기시작/기계학습원론/1주차.md",
     "4학년1학기시작/인공지능개론/1주차.인공지능의 시작.md",
     "4학년1학기시작/기계학습원론/2주차.md",
-    "4학년1학기시작/기계학습원론/3주차.md",
     "0. 졸업작품/001초기주제/학교 시설.md",
     "할일/2024-03-19.md",
     "4학년1학기시작/시간표.md",
-    "코딩테스트/C/파일 입출력.md",
     "코딩테스트/C/구조체.md",
     "4학년1학기시작/기술경영개론/2주차 수업.md",
-    "4학년1학기시작/기술경영개론/3주차.md",
     "Attatched File/Tutorial Exploit Writing - 1. Automation.pdf",
     "Attatched File/0x03-AccessControl.pdf",
     "0. 졸업작품/001초기주제/투표 사이트.md",
@@ -309,8 +325,6 @@
     "Attatched File/Pasted image 20240318155020.png",
     "코딩테스트/C/문자열 입출력.md",
     "Excalidraw/Drawing 2024-03-18 14.22.23.excalidraw.md",
-    "코딩테스트/C/함수.md",
-    "4학년1학기시작/인공지능개론/3주차.md",
     "Attatched File/2주차(답변).pdf",
     "Attatched File/Pasted image 20240315200648.png",
     "CS",
@@ -318,8 +332,6 @@
     "Attatched File/Pasted image 20240315192910.png",
     "Attatched File/[기술경영개론 2주차 과제논문] 2020 공학계열 대학생들의 기술의 본성(NOT)에 대한 인식 조사_한국기술교육학회지.pdf",
     "Attatched File/기술경영개론 2주차 강의_Ch1 Introduction.pdf",
-    "Attatched File/0x02-AccessControl.pdf",
-    "Archive/OPIC/IM",
     "Attatched File/Pasted image 20240312185735.png",
     "Attatched File/Pasted image 20240308212505.png",
     "Attatched File/Pasted image 20240308192659.png"
