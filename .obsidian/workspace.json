@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/C/파일 시스템.md",
+                "file": "4학년1학기시작/기술경영개론/3주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/C/파일 시스템.md",
+                "file": "4학년1학기시작/기술경영개론/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/C/파일 시스템.md",
+                "file": "4학년1학기시작/기술경영개론/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/C/파일 시스템.md"
+                "file": "4학년1학기시작/기술경영개론/3주차.md"
               }
             }
           }
@@ -277,10 +277,11 @@
   },
   "active": "f93cc50e4147fae5",
   "lastOpenFiles": [
+    "Attatched File/기술경영개론 3주차 강의_Ch2 혁신의 원천.pdf",
+    "코딩테스트/C/파일 시스템.md",
     "Attatched File/Pasted image 20240321204819.png",
     "Attatched File/Pasted image 20240321203854.png",
     "할일/2024-03-21.md",
-    "코딩테스트/C/파일 시스템.md",
     "할일/2024-03-22.md",
     "할일/2024-03-20.md",
     "4학년1학기시작/과제.md",
@@ -321,7 +322,6 @@
     "Archive/OPIC/IM",
     "Attatched File/Pasted image 20240312185735.png",
     "Attatched File/Pasted image 20240308212505.png",
-    "Attatched File/Pasted image 20240308192659.png",
-    "Attatched File/Pasted image 20240308192630.png"
+    "Attatched File/Pasted image 20240308192659.png"
   ]
 }
