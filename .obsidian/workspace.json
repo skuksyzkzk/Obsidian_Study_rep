@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/컴퓨터 구조/000뭘까.md",
+                "file": "할일/2024-03-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/컴퓨터 구조/000뭘까.md",
+                "file": "할일/2024-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/컴퓨터 구조/000뭘까.md",
+                "file": "할일/2024-03-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/컴퓨터 구조/000뭘까.md"
+                "file": "할일/2024-03-24.md"
               }
             }
           }
@@ -289,21 +289,25 @@
   },
   "active": "39fc91cc890b338c",
   "lastOpenFiles": [
-    "Attatched File/Pasted image 20240324001257.png",
-    "CS/컴퓨터 구조/0000목차.md",
-    "Attatched File/컴퓨터구조.pdf",
-    "CS/컴퓨터 구조/000뭘까.md",
+    "4학년1학기시작/과제.md",
+    "할일/2024-03-24.md",
     "CS/컴퓨터 구조/006입출력장치.md",
     "CS/컴퓨터 구조/005보조기억장치.md",
     "CS/컴퓨터 구조/004주기억장치.md",
     "CS/컴퓨터 구조/003CPU.md",
     "CS/컴퓨터 구조/002명령어.md",
     "CS/컴퓨터 구조/001데이터.md",
+    "Attatched File/Pasted image 20240324012817.png",
+    "CS/컴퓨터 구조/000뭘까.md",
+    "Attatched File/Pasted image 20240324011500.png",
+    "Attatched File/Pasted image 20240324011100.png",
+    "Attatched File/Pasted image 20240324001257.png",
+    "CS/컴퓨터 구조/0000목차.md",
+    "Attatched File/컴퓨터구조.pdf",
     "코딩테스트/자료구조/기본적인이해/011자료구조란.md",
     "CS/운영체제",
     "CS/컴퓨터 구조",
     "코딩테스트/자료구조/기본적인이해/012알고리즘이란.md",
-    "4학년1학기시작/과제.md",
     "4학년1학기시작/시간표.md",
     "4학년1학기시작/심층신경망개론/2주차.md",
     "4학년1학기시작/심층신경망개론/OT.md",
@@ -330,10 +334,6 @@
     "Attatched File/Tutorial Exploit Writing - 1. Automation.pdf",
     "Attatched File/0x03-AccessControl.pdf",
     "Attatched File/2-2. Additive Linear Model.pdf",
-    "Attatched File/Pasted image 20240318155709.png",
-    "Attatched File/Pasted image 20240318155020.png",
-    "Attatched File/2주차(답변).pdf",
-    "Attatched File/Pasted image 20240315200648.png",
-    "Attatched File/Pasted image 20240315195710.png"
+    "Attatched File/2주차(답변).pdf"
   ]
 }
