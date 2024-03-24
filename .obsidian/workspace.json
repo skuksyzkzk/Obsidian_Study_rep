@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "할일/2024-03-24.md",
+                "file": "코딩테스트/자료구조/기본적인이해/012알고리즘이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "할일/2024-03-24.md",
+                "file": "코딩테스트/자료구조/기본적인이해/012알고리즘이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "할일/2024-03-24.md",
+                "file": "코딩테스트/자료구조/기본적인이해/012알고리즘이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "할일/2024-03-24.md"
+                "file": "코딩테스트/자료구조/기본적인이해/012알고리즘이란.md"
               }
             }
           }
@@ -289,8 +289,8 @@
   },
   "active": "39fc91cc890b338c",
   "lastOpenFiles": [
-    "4학년1학기시작/과제.md",
     "할일/2024-03-24.md",
+    "4학년1학기시작/과제.md",
     "CS/컴퓨터 구조/006입출력장치.md",
     "CS/컴퓨터 구조/005보조기억장치.md",
     "CS/컴퓨터 구조/004주기억장치.md",
