@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/자료구조/02재귀/021함수의 재귀적 호출의 이해.md",
+                "file": "코딩테스트/자료구조/02재귀/023하노이타워.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/자료구조/02재귀/021함수의 재귀적 호출의 이해.md",
+                "file": "코딩테스트/자료구조/02재귀/023하노이타워.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/자료구조/02재귀/021함수의 재귀적 호출의 이해.md",
+                "file": "코딩테스트/자료구조/02재귀/023하노이타워.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/자료구조/02재귀/021함수의 재귀적 호출의 이해.md"
+                "file": "코딩테스트/자료구조/02재귀/023하노이타워.md"
               }
             }
           }
@@ -287,16 +287,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39fc91cc890b338c",
+  "active": "23f4fa19367b6f84",
   "lastOpenFiles": [
-    "코딩테스트/자료구조/02재귀/023하노이타워.md",
-    "코딩테스트/자료구조/02재귀/022재귀의활용.md",
+    "코딩테스트/자료구조/03연결리스트",
+    "무제 폴더",
     "코딩테스트/자료구조/02재귀/021함수의 재귀적 호출의 이해.md",
+    "코딩테스트/자료구조/02재귀/023하노이타워.md",
+    "할일/2024-03-25.md",
+    "4학년1학기시작/과제.md",
+    "4학년1학기시작/시간표.md",
+    "코딩테스트/자료구조/02재귀/022재귀의활용.md",
     "코딩테스트/자료구조/01기본적인이해/012알고리즘이란.md",
     "코딩테스트/자료구조/02재귀",
     "Attatched File/Pasted image 20240324212558.png",
     "할일/2024-03-24.md",
-    "4학년1학기시작/과제.md",
     "CS/컴퓨터 구조/006입출력장치.md",
     "CS/컴퓨터 구조/005보조기억장치.md",
     "CS/컴퓨터 구조/004주기억장치.md",
@@ -313,7 +317,6 @@
     "코딩테스트/자료구조/01기본적인이해/011자료구조란.md",
     "CS/운영체제",
     "CS/컴퓨터 구조",
-    "4학년1학기시작/시간표.md",
     "4학년1학기시작/심층신경망개론/2주차.md",
     "4학년1학기시작/심층신경망개론/OT.md",
     "코딩테스트/C/전처리기.md",
@@ -326,14 +329,11 @@
     "코딩테스트/C/Buffered I O.md",
     "코딩테스트/C/파일 입출력.md",
     "Excalidraw/Drawing 2024-03-22 18.42.23.excalidraw.md",
-    "4학년1학기시작/기계학습원론/3주차.md",
     "코딩테스트/자료구조/01기본적인이해",
-    "4학년1학기시작/기술경영개론/3주차.md",
     "Attatched File/기술경영개론 3주차 강의_Ch2 혁신의 원천.pdf",
     "Attatched File/Pasted image 20240321204819.png",
     "Attatched File/0x03-AccessControl-Extended.pdf",
     "Attatched File/Tutorial Exploit Writing - 1. Automation.pdf",
-    "Attatched File/0x03-AccessControl.pdf",
-    "Attatched File/2-2. Additive Linear Model.pdf"
+    "Attatched File/0x03-AccessControl.pdf"
   ]
 }
