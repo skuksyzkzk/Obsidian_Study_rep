@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md"
+                "file": "4학년1학기시작/인터넷서비스와정보홓/4주차.md"
               }
             }
           }
@@ -290,8 +290,12 @@
   },
   "active": "39fc91cc890b338c",
   "lastOpenFiles": [
-    "코딩테스트/자료구조/03연결리스트/031추상자료형.md",
+    "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
+    "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
+    "Attatched File/QnA-Mar-26.pdf",
+    "Attatched File/0x05-Crypto-and-TLS.pdf",
     "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
+    "코딩테스트/자료구조/03연결리스트/031추상자료형.md",
     "코딩테스트/C/typedef.md",
     "코딩테스트/C/전처리기.md",
     "4학년1학기시작/과제.md",
@@ -327,14 +331,10 @@
     "Attatched File/Pasted image 20240322212317.png",
     "코딩테스트/C/변수와 상수 고급이론.md",
     "Attatched File/Pasted image 20240322204945.png",
-    "코딩테스트/C/파일 시스템.md",
     "Attatched File/Pasted image 20240322194315.png",
     "Attatched File/Pasted image 20240322192937.png",
-    "코딩테스트/C/Buffered I O.md",
     "코딩테스트/자료구조/01기본적인이해",
     "Attatched File/기술경영개론 3주차 강의_Ch2 혁신의 원천.pdf",
-    "Attatched File/Pasted image 20240321204819.png",
-    "Attatched File/0x03-AccessControl-Extended.pdf",
-    "Attatched File/Tutorial Exploit Writing - 1. Automation.pdf"
+    "Attatched File/Pasted image 20240321204819.png"
   ]
 }
