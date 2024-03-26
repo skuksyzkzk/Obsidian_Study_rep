@@ -23,6 +23,12 @@ password 프로그램을 통해서 자신의 암호파일을 고치는데
 
 # 결론
 
+## why confused deputy일까
+
+confused deputy는 passwd 프로그램을 쓰고 읽는 권한이 있다 
+그렇기에 우리는 confused deputy프로그램을 실행시켜서 일부러 passwd를 파일을 overwrite 시켜서 공격한 것이다 
+
+
 결국 confused deputy 파일을 실행시키면 id에 입력하면 id입력한 값으로 파일이 생성된다
 그래서 그걸이용해서 passwd 이름으로 프로그램 파일을 덮어씌운것 
 

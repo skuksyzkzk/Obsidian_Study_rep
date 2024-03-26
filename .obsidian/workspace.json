@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/ctf 1.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,14 +143,16 @@
             "id": "06df9c85227727a9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-18 14.22.23.excalidraw.md"
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -235,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/ctf 1.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/ctf 1.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/ctf 1.md"
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md"
               }
             }
           }
@@ -273,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,18 +289,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39fc91cc890b338c",
+  "active": "06df9c85227727a9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-18 14.22.23.excalidraw.md",
     "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
-    "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
     "4학년1학기시작/인터넷서비스와정보홓/ctf 1.md",
+    "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
+    "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
+    "할일/2024-03-26.md",
+    "할일/2024-03-27.md",
+    "4학년1학기시작/과제.md",
     "Attatched File/QnA-Mar-26.pdf",
     "Attatched File/0x05-Crypto-and-TLS.pdf",
     "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
     "코딩테스트/자료구조/03연결리스트/031추상자료형.md",
     "코딩테스트/C/typedef.md",
     "코딩테스트/C/전처리기.md",
-    "4학년1학기시작/과제.md",
     "코딩테스트/자료구조/02재귀/023하노이타워.md",
     "코딩테스트/자료구조/03연결리스트",
     "무제 폴더",
@@ -322,13 +327,9 @@
     "Attatched File/Pasted image 20240324011500.png",
     "Attatched File/Pasted image 20240324011100.png",
     "Attatched File/Pasted image 20240324001257.png",
-    "CS/컴퓨터 구조/0000목차.md",
     "Attatched File/컴퓨터구조.pdf",
-    "코딩테스트/자료구조/01기본적인이해/011자료구조란.md",
     "CS/운영체제",
     "CS/컴퓨터 구조",
-    "4학년1학기시작/심층신경망개론/2주차.md",
-    "4학년1학기시작/심층신경망개론/OT.md",
     "Attatched File/Pasted image 20240322212317.png",
     "Attatched File/Pasted image 20240322204945.png",
     "Attatched File/Pasted image 20240322194315.png",
