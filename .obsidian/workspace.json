@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/인터넷서비스와정보홓/4주차.md"
+                "file": "4학년1학기시작/인터넷서비스와정보홓/3주차.md"
               }
             }
           }
@@ -290,8 +290,9 @@
   },
   "active": "39fc91cc890b338c",
   "lastOpenFiles": [
-    "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
     "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
+    "4학년1학기시작/인터넷서비스와정보홓/ctf 1.md",
+    "4학년1학기시작/인터넷서비스와정보홓/3주차.md",
     "Attatched File/QnA-Mar-26.pdf",
     "Attatched File/0x05-Crypto-and-TLS.pdf",
     "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
@@ -329,7 +330,6 @@
     "4학년1학기시작/심층신경망개론/2주차.md",
     "4학년1학기시작/심층신경망개론/OT.md",
     "Attatched File/Pasted image 20240322212317.png",
-    "코딩테스트/C/변수와 상수 고급이론.md",
     "Attatched File/Pasted image 20240322204945.png",
     "Attatched File/Pasted image 20240322194315.png",
     "Attatched File/Pasted image 20240322192937.png",

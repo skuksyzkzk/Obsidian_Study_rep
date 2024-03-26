@@ -1,0 +1,1 @@
+ssh -p 1398 s21315626@swji.skku.edu
