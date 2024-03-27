@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/과제.md",
+                "file": "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
                 "mode": "source",
                 "source": false
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/과제.md",
+                "file": "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/과제.md",
+                "file": "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/과제.md"
+                "file": "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md"
               }
             }
           }
@@ -291,7 +291,10 @@
   },
   "active": "06df9c85227727a9",
   "lastOpenFiles": [
+    "코딩테스트/자료구조/03연결리스트/031추상자료형.md",
+    "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
     "할일/2024-03-27.md",
+    "4학년1학기시작/과제.md",
     "4학년1학기시작/시간표.md",
     "CS/컴퓨터 구조/002명령어.md",
     "Attatched File/Pasted image 20240327013933.png",
@@ -304,11 +307,8 @@
     "Excalidraw/Drawing 2024-03-18 14.22.23.excalidraw.md",
     "4학년1학기시작/인터넷서비스와정보홓/2주차.md",
     "할일/2024-03-26.md",
-    "4학년1학기시작/과제.md",
     "Attatched File/QnA-Mar-26.pdf",
     "Attatched File/0x05-Crypto-and-TLS.pdf",
-    "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
-    "코딩테스트/자료구조/03연결리스트/031추상자료형.md",
     "코딩테스트/C/typedef.md",
     "코딩테스트/자료구조/02재귀/023하노이타워.md",
     "코딩테스트/자료구조/03연결리스트",
