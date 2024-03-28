@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
+                "file": "코딩테스트/C/구조체.md",
                 "mode": "source",
                 "source": false
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
+                "file": "코딩테스트/C/구조체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md",
+                "file": "코딩테스트/C/구조체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/C/메모리 포인터.md"
+                "file": "코딩테스트/C/구조체.md"
               }
             }
           }
@@ -289,11 +289,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06df9c85227727a9",
+  "active": "23f4fa19367b6f84",
   "lastOpenFiles": [
+    "코딩테스트/C/메모리 포인터.md",
+    "코딩테스트/C/오류 및 헷갈리는 것들/NULL 포인터 역참조.md",
+    "코딩테스트/C/오류 및 헷갈리는 것들/식이 수정할 수 없는 lvalue입니다.md",
+    "코딩테스트/C/오류 및 헷갈리는 것들",
     "코딩테스트/C/리틀엔디안 vs 빅엔디안.md",
     "코딩테스트/C/문자열 입출력.md",
-    "코딩테스트/C/메모리 포인터.md",
     "코딩테스트/C/변수와 상수 고급이론.md",
     "코딩테스트/C/배열.md",
     "코딩테스트/C/컴파일 링크 실행.md",
@@ -320,8 +323,6 @@
     "무제 폴더",
     "코딩테스트/자료구조/02재귀/021함수의 재귀적 호출의 이해.md",
     "할일/2024-03-25.md",
-    "코딩테스트/자료구조/02재귀/022재귀의활용.md",
-    "코딩테스트/자료구조/01기본적인이해/012알고리즘이란.md",
     "코딩테스트/자료구조/02재귀",
     "Attatched File/Pasted image 20240324212558.png",
     "Attatched File/Pasted image 20240324012817.png",
@@ -335,7 +336,6 @@
     "Attatched File/Pasted image 20240322204945.png",
     "Attatched File/Pasted image 20240322194315.png",
     "Attatched File/Pasted image 20240322192937.png",
-    "코딩테스트/자료구조/01기본적인이해",
-    "Attatched File/기술경영개론 3주차 강의_Ch2 혁신의 원천.pdf"
+    "코딩테스트/자료구조/01기본적인이해"
   ]
 }
