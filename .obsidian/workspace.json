@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년1학기시작/시간표.md",
+                "file": "코딩테스트/C/메모리 포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4학년1학기시작/시간표.md",
+                "file": "코딩테스트/C/메모리 포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4학년1학기시작/시간표.md",
+                "file": "코딩테스트/C/메모리 포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4학년1학기시작/시간표.md"
+                "file": "코딩테스트/C/메모리 포인터.md"
               }
             }
           }
@@ -291,14 +291,19 @@
   },
   "active": "06df9c85227727a9",
   "lastOpenFiles": [
+    "코딩테스트/C/리틀엔디안 vs 빅엔디안.md",
+    "코딩테스트/C/문자열 입출력.md",
+    "코딩테스트/C/메모리 포인터.md",
+    "코딩테스트/C/변수와 상수 고급이론.md",
+    "코딩테스트/C/배열.md",
+    "코딩테스트/C/컴파일 링크 실행.md",
+    "4학년1학기시작/시간표.md",
     "코딩테스트/자료구조/03연결리스트/032배열을 이용한 리스트의 구현.md",
     "코딩테스트/자료구조/03연결리스트/031추상자료형.md",
     "할일/2024-03-27.md",
     "4학년1학기시작/과제.md",
-    "4학년1학기시작/시간표.md",
     "CS/컴퓨터 구조/002명령어.md",
     "Attatched File/Pasted image 20240327013933.png",
-    "코딩테스트/C/컴파일 링크 실행.md",
     "코딩테스트/C/전처리기.md",
     "CS/컴퓨터 구조/001데이터.md",
     "4학년1학기시작/인터넷서비스와정보홓/4주차.md",
@@ -319,10 +324,6 @@
     "코딩테스트/자료구조/01기본적인이해/012알고리즘이란.md",
     "코딩테스트/자료구조/02재귀",
     "Attatched File/Pasted image 20240324212558.png",
-    "할일/2024-03-24.md",
-    "CS/컴퓨터 구조/006입출력장치.md",
-    "CS/컴퓨터 구조/005보조기억장치.md",
-    "CS/컴퓨터 구조/004주기억장치.md",
     "Attatched File/Pasted image 20240324012817.png",
     "Attatched File/Pasted image 20240324011500.png",
     "Attatched File/Pasted image 20240324011100.png",
